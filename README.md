@@ -58,13 +58,13 @@ Completed as part of a five-month cybersecurity training program.
 
 The virtual network architecture was designed and configured as part of the cybersecurity training project.
 
-![Network Architecture](network-architecture.png)
+![Network Architecture](./network%20architecture.png)
 
 ### pfSense Firewall Configuration
 
 pfSense was configured as the firewall to manage and secure communication between the network segments.
 
-![pfSense Firewall Configuration](chapt-3pfsensence-config.png)
+![pfSense Firewall Configuration](./chapt-3pfsensence-config.png)
 
 ### Network Configuration
 
