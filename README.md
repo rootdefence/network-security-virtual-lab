@@ -56,7 +56,7 @@ The virtual network architecture was designed and configured as part of the cybe
 
 pfSense was configured as the firewall to manage and secure communication between the network segments.
 
-![pfSense Firewall Configuration](chapt-3pfsensence-config.png)
+![pfSense Firewall Configuration](chapt-3pfsense-config.png)
 
 ### Network Configuration
 
