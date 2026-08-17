@@ -58,7 +58,7 @@ Completed as part of a five-month cybersecurity training program.
 
 The virtual network architecture was designed and configured as part of the cybersecurity training project.
 
-![Network Architecture](network%20architecture.png)
+![Network Architecture](network-architecture.png)
 
 ### pfSense Firewall Configuration
 
