@@ -46,17 +46,6 @@ The objective was to design and configure a segmented virtual network using VMwa
 
 ## Project Evidence
 
-### Network Architecture
-
-The virtual network architecture was designed and configured as part of the cybersecurity training project.
-
-![Network Architecture](network-archtecture.png)
-
-### pfSense Firewall Configuration
-
-pfSense was configured as the firewall to manage and secure communication between the network segments.
-
-![pfSense Firewall Configuration](chapt-3pfsense-config.png)
 
 ### Network Configuration
 
@@ -70,6 +59,19 @@ Kali Linux was connected to the network and connectivity was tested to verify co
 
 ![Kali Linux Connectivity](kali-ping-google-connectivity.png)
 
+## Chapter 3 – Practical Implementation
+
+### Network Architecture
+
+The network architecture was designed using VMware Workstation and pfSense Firewall. The virtual network consists of WAN, LAN, and DMZ segments, providing a structured and secure network environment.
+
+![Network Architecture](network-archtecture.png)
+
+### pfSense Firewall Configuration
+
+pfSense was configured as the firewall and router for the virtual network. The configuration included WAN, LAN, and DMZ interfaces, with the DMZ network configured using the `192.168.2.0/24` network.
+
+![pfSense Configuration](chapt-3pfsense-config.png)
 ## Project Outcome
 
 The project provided hands-on experience in designing and configuring a secure virtual network environment and strengthened my understanding of firewall administration, network segmentation, connectivity testing, and network security.
