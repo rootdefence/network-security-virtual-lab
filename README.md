@@ -51,3 +51,29 @@ The project provided hands-on experience in designing and configuring a secure v
 ## Training
 
 Completed as part of a five-month cybersecurity training program.
+
+## Project Evidence
+
+### Network Architecture
+
+The virtual network architecture was designed and configured as part of the cybersecurity training project.
+
+![Network Architecture](network%20architecture.png)
+
+### pfSense Firewall Configuration
+
+pfSense was configured as the firewall to manage and secure communication between the network segments.
+
+![pfSense Firewall Configuration](chapt-3pfsensence-config.png)
+
+### Network Configuration
+
+The virtual network environment and its interfaces were configured and tested during the practical training.
+
+![Network Configuration](chap3-1.png)
+
+### Kali Linux Connectivity Testing
+
+Kali Linux was connected to the network and connectivity was tested to verify communication and Internet access through the firewall.
+
+![Kali Linux Connectivity](kali-ping-google-connectivity.png)
