@@ -50,7 +50,7 @@ The objective was to design and configure a segmented virtual network using VMwa
 
 The virtual network architecture was designed and configured as part of the cybersecurity training project.
 
-![Network Architecture](network-architecture.png)
+![Network Architecture](network-archtecture.png)
 
 ### pfSense Firewall Configuration
 
